@@ -1,0 +1,3 @@
+/Users/plexdi/Desktop/mangalibrary/CMakeFiles/main.dir
+/Users/plexdi/Desktop/mangalibrary/CMakeFiles/edit_cache.dir
+/Users/plexdi/Desktop/mangalibrary/CMakeFiles/rebuild_cache.dir
